@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FathimaKhader18
+- 👋 Hi, I’m @FathimaKhader
 - 👀 I’m interested in :
 - 1. Exploring and analyzing complex datasets to derive meaningful insights
 - 2. Developing AI-driven solutions for real-world problems
